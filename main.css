@@ -1,0 +1,13 @@
+.foto{
+border-radius: 50px;
+border: solid gold;
+width: 150px;
+height: 150px;
+float: left;
+
+}
+
+.nombre{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
